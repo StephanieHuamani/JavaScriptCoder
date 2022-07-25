@@ -1,5 +1,6 @@
 let repetir = true
 
+
 while(repetir) {
     let numero1 = parseFloat(prompt("Ingrese el precio del producto que quisiera comprar"))
     let numero2 = 1.75
