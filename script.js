@@ -10,7 +10,7 @@ while(repetir) {
         alert ("Ingrese un numero valido, por favor.")
     }
 
-    let confirmacion = prompt ("¿Desea calcular otro precio? (Si/No)").toLowerCase()
+    let confirmacion = prompt ("¿Quiere calcular otro precio? (Si/No)").toLowerCase()
     if(confirmacion == "no") {
         repetir = false
     }
